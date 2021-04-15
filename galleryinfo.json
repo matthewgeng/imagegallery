@@ -1,0 +1,38 @@
+[
+    {
+        "first-name": "Matthew",
+        "last-name": "Geng",
+        "description": "head shot of matthew geng",
+        "tag": "basketball, matthew geng",
+        "copyright": "right",
+        "access": "public",
+        "approved": true,
+        "UID": 1,
+        "imagefile": "uploads\/1.jpg",
+        "modifiedtime": 1581109382
+    },
+    {
+        "first-name": "Matthew",
+        "last-name": "Geng",
+        "description": "team photo of waterloo basketball",
+        "tag": "basketball",
+        "copyright": "right",
+        "access": "public",
+        "approved": true,
+        "UID": 2,
+        "imagefile": "uploads\/2.jpg",
+        "modifiedtime": 1581109397
+    },
+    {
+        "first-name": "Matthew",
+        "last-name": "Geng",
+        "description": "aquadrone augmented image of training data",
+        "tag": "aquadrone, object detection, training data",
+        "copyright": "right",
+        "access": "public",
+        "approved": true,
+        "UID": 3,
+        "imagefile": "uploads\/3.jpg",
+        "modifiedtime": 1581109437
+    }
+]
